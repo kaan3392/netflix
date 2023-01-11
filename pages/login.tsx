@@ -1,4 +1,3 @@
-import { signInAnonymously } from "firebase/auth";
 import Head from "next/head";
 import Image from "next/image";
 import { useState } from "react";

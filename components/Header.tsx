@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { useEffect, useState } from "react";
 import { BellIcon, MagnifyingGlassIcon } from '@heroicons/react/24/solid'
 import useAuth from "../hooks/useAuth";
