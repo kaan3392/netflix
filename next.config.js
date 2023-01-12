@@ -7,4 +7,5 @@ module.exports = withTM({
   images: {
     domains: ['rb.gy', 'image.tmdb.org'],
   },
+  
 })
